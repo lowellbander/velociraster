@@ -9,6 +9,6 @@ then it streams that portion on that device
 
 even better
 
-arrange your monitors, sent picture of arrangement  to program
+arrange your monitors, send picture of arrangementto program
 
-it handles (most of ) the rest
+it handles (most of) the rest
